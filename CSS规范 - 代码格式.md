@@ -1,7 +1,7 @@
 ## CSS规范 - 代码格式(测试）
 
 #### 根据属性的重要性按顺序书写
-
+ 
 单个样式规则下的属性在书写时，应按功能进行分组，并以 Positioning Model > Box Model > Typographic > Visual 的顺序书写，提高代码的可读性。
 - 如果包含 content 属性，应放在最前面；
 
